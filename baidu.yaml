@@ -1,3 +1,4 @@
+proxies:
 - name: "🐾南京"
   type: http
   server: 180.97.104.168
